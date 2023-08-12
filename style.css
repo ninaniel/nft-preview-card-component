@@ -1,0 +1,103 @@
+body {
+    background-color: #0D192C;
+}
+
+.main-container {
+    background-color: #15263F;
+    width: 340px;
+    border-radius: 15px;
+    margin: 152px auto;
+    padding: 24px;
+}
+
+.equilibrium {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 24px;
+}
+
+.text h1 {
+    color: #fff;
+    font-family: Outfit;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.text p {
+    color: #8BACD9;
+    font-family: Outfit;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 26px; 
+    margin-bottom: 24px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px ;
+}
+.etherium img {
+    margin-right: 6.48px;
+}
+.etherium span {
+    vertical-align: top;
+    color:  #00FFF8;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.time {
+    display: flex;
+    align-items: center;
+}
+.time img {
+    width: 16px; 
+    margin-right: 7.7px;
+}
+.time span {
+    vertical-align: top;
+    color:  #8BACD9;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.line {
+    background-color: #2E405A;
+    height: 1px;
+    margin-bottom: 16px;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+
+}
+.avatar img {
+    width: 33px;
+    border-radius: 33px;
+    margin-right: 16px;
+    margin-bottom: 8px;
+}
+
+.avatar p {
+    display: inline;
+    color: #8BACD9;
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.name {
+    color: #fff;
+}
